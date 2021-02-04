@@ -1,13 +1,13 @@
 # World_Weather_Analysis
 
-## Challenge Overview
+## Project Overview
 
 The purpose of this analysis was to provide WeatherPy with:
 -	A collection and analyzation of weather data across cities worldwide
 
 -	Build the PlanMyTrip app to use data to recommend ideal hotels based of a clients weather preferences
 
-## Challenge Summary
+## Summary
 
 After completing the tasks of collection weather data from the Open Weather App, I was able to create a destination map based off a clients preferred temperature.  I then further created an itinerary map where the client can pick 4 locations and it shows directions from start to end with multiple waypoints.
 
